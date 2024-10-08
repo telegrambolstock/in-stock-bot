@@ -6,7 +6,7 @@ if [ "$(ls -A $DIR)" ]; then
      echo "$DIR is not Empty. Userdata allready there."
 else
     echo "$DIR is Empty. Example data is being copied"
-    cp /app/example-config.json /app/data/config.json
+    cp /app/config.json /app/data/config.json
     echo "Please fill up the example file mounted to your container. Then restart the container."
     sleep 120
 fi
