@@ -1,14 +1,14 @@
 {
-    "telegram": "7603615077:AAG_l7Ood5_pvbldm-986ZmzD_P6snMZzw0",
+    "telegram": "",
     "product": [
         {
             "name": "Produkt 1",
-            "url": "https://www.bol.com/nl/nl/p/playstation-5-digital-edition-slim-30th-anniversary-limited-edition/9300000190960933/?s2a=&bltgh=okyHMmlgndqy1qPXHT1GFA.2_56_57.58.FeatureListItem#productTitle",
+            "url": "Title",
             "value": "YES"
         },
         {
             "name": "Produkt 2",
-            "url": "https://www.bol.com/nl/nl/p/playstation-5-digital-edition-slim-30th-anniversary-limited-edition/9300000190960933/?s2a=&bltgh=okyHMmlgndqy1qPXHT1GFA.2_56_57.58.FeatureListItem#productTitle",
+            "url": "productTitle",
             "value": "NO"
         }
     ]
