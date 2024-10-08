@@ -16,7 +16,7 @@ services:
       - LINK=https://www.bol.com/nl/nl/p/playstation-5-digital-edition-slim-30th-anniversary-limited-edition/9300000190960933/?s2a=&bltgh=okyHMmlgndqy1qPXHT1GFA.2_56_57.58.FeatureListItem#productTitle
       - API_Key=7603615077:AAG_l7Ood5_pvbldm-986ZmzD_P6snMZzw0
       - expected=4
-      - unavailabilityMessage=NIET VERKRIJGBAAR
+      - unavailabilityMessage=NO
     stdin_open: true
     tty: true
     restart: unless-stopped
